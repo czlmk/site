@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { HashRouter as Router, Routes, Route } from 'react-router';
+import { Routes, Route } from 'react-router';
 import './App.css'
 import Music from './pages/Music';
 import Projects from './pages/Projects';
